@@ -112,5 +112,24 @@ export const specimens = [
         "John 12:13"
       ]
     ]
+  },
+  {
+    "slug": "myrtle",
+    "name": "Myrtle",
+    "scientificName": "Myrtus communis",
+    "alt": "A myrtle branch with glossy oval leaves, white flowers and a dark berry.",
+    "book": "Flora von Deutschland, Österreich und der Schweiz",
+    "creator": "Otto Wilhelm Thomé",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Illustration_Myrtus_communis0.jpg",
+    "passages": [
+      [
+        "ISA.55.13",
+        "Isaiah 55:13"
+      ],
+      [
+        "NEH.8.15",
+        "Nehemiah 8:15"
+      ]
+    ]
   }
 ];
