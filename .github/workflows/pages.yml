@@ -1,4 +1,4 @@
-name: Deploy site to GitHub Pages
+name: Deploy site to GitHub Pages (edited)
 
 # Publishes site/ on every push to main. The auto-merge workflow also starts it
 # by dispatch, because merges made with the built-in token don't fire push runs.
