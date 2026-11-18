@@ -10,9 +10,7 @@ A pull request that only changes files in `site/` merges itself, with no review.
 
 Paste this into Claude, ChatGPT or any agent, then describe your change at the end:
 
-> Change https://github.com/yvlabs/herbarium by editing only files inside `site/` and opening a pull request to `main` from a fork (it auto-merges and publishes to https://yvlabs.github.io/herbarium/); if you can't fork or open pull requests yourself, don't stop — give me each changed file in full with its link https://github.com/yvlabs/herbarium/edit/main/site/FILE so I can paste it there and follow GitHub's prompts to propose it — the change:
-
-No fork tool? Open that edit link while signed in to GitHub, paste, and follow the prompts. GitHub makes the fork and the pull request for you, and it auto-merges like any other.
+> Fork https://github.com/yvlabs/herbarium, make the change below by editing only files inside `site/`, and open a pull request to `main` (fall back to the GitHub CLI if your GitHub tools can't fork); it auto-merges and publishes to https://yvlabs.github.io/herbarium/ — the change:
 
 ## How it works
 
